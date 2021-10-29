@@ -1,6 +1,6 @@
 # CodingWizardsWebApp
 
-Built with plane Vanilla JS, HTML, CSS, Firebase and easy and simple instructions followed.
+Built with ES6, HTML, CSS, Firebase, Firestone and easy and simple instructions followed.
 
-[Checkouyt the web-app here!](https://coding-wizard.web.app)
+[Checkout the web-app here!](https://coding-wizard.web.app)
 
